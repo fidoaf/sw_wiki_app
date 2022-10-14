@@ -44,7 +44,7 @@ Even the page transitions can be tailored according to the path you follow:
 
 All the information you need to know about your favourite characters:
 
-![Jedi character roster](https://raw.githubusercontent.com/fidoaf/sw_wiki_app/main/repo_files/assets/images/app_authentication.gif "Jedi character roster")
+![Jedi character roster](https://raw.githubusercontent.com/fidoaf/sw_wiki_app/main/repo_files/assets/images/character_roster_jedi.gif "Jedi character roster")
 
 Even more info in-app from the official wiki, get ready for the next Trivia night!
 
