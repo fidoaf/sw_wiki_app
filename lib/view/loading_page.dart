@@ -12,6 +12,11 @@ class LoadingPage extends StatefulWidget {
   State<LoadingPage> createState() => _LoadingPageState();
 }
 
+///
+/// Load all the required data
+/// json file assets in these case,
+/// evethough the information could be easily retrieved
+/// from a webservice, just changing the DataService class.
 class _LoadingPageState extends State<LoadingPage> {
   bool _complete = false;
 

@@ -1,5 +1,10 @@
 import 'package:flutter/material.dart';
 
+///
+/// Import the same image (network or asset) twice
+/// in order to create the illusion of a bar
+/// indicating the load progress.
+///
 class ImageProgressIndicator extends StatelessWidget {
   const ImageProgressIndicator(
       {super.key,

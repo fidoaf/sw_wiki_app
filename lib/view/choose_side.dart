@@ -2,6 +2,10 @@ import 'package:flutter/material.dart';
 import 'package:sw_app/configuration/dynamic_configuration.dart';
 import 'package:sw_app/view/roster_page.dart';
 
+///
+/// Dynamically change the theme of the application
+/// depending on the side you choose
+///
 class ChooseSidePage extends StatefulWidget {
   const ChooseSidePage({super.key, required this.title});
 

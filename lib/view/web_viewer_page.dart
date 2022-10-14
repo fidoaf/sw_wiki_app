@@ -5,6 +5,13 @@ import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher.dart';
 import 'package:webview_flutter/webview_flutter.dart';
 
+///
+/// Display Web content in different ways
+/// due to each platform's limitations:
+/// - Android and iOS display the information in-app.
+/// - Web opens a new window/tab.
+/// - Desktop sends the URI to the default browser.
+///
 class WebViewerPage extends StatefulWidget {
   const WebViewerPage({super.key, required this.url, required this.name});
 

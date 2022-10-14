@@ -1,6 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:sw_app/configuration/dynamic_configuration.dart';
 
+///
+/// Adapt the image to be displayed
+/// depending on the current theme (sith or jedi side)
+///
 class LogoProgressIndicator extends StatelessWidget {
   const LogoProgressIndicator({
     super.key,

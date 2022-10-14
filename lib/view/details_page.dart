@@ -5,6 +5,10 @@ import 'package:sw_app/model/people_service.dart';
 import 'package:sw_app/view/logo_progess_indicator.dart';
 import 'package:sw_app/view/web_viewer_page.dart';
 
+///
+/// Use a FutureBuilder in order to retrieve the current character's
+/// full data (on the roster we only have basic info).
+///
 class DetailsPage extends StatefulWidget {
   const DetailsPage({super.key, required this.character});
 
@@ -36,6 +40,7 @@ class _DetailsPageState extends State<DetailsPage> {
                 appBar: AppBar(
                   title: Text(widget.character.name),
                 ),
+                // Expand the child widget to fill the entire parent
                 body: Card(
                   elevation: 8,
                   margin: const EdgeInsets.all(10),

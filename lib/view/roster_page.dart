@@ -6,6 +6,9 @@ import 'package:sw_app/model/people_service.dart';
 import 'package:sw_app/view/details_page.dart';
 import 'package:sw_app/view/logo_progess_indicator.dart';
 
+///
+/// Grid that adapts itself depending on the screen size
+///
 class RosterPage extends StatefulWidget {
   const RosterPage({super.key, required this.darkSide});
 
@@ -21,7 +24,8 @@ class _RosterPageState extends State<RosterPage> {
     return WillPopScope(
       onWillPop: () async {
         bool willLeave = false;
-        // show the confirm dialog
+        // Block the back navigation in order to display
+        // the confirmation message
         await showDialog(
             context: context,
             builder: (_) => AlertDialog(
@@ -55,6 +59,8 @@ class _RosterPageState extends State<RosterPage> {
                 return GridView.builder(
                   itemCount: people.length,
                   itemBuilder: (context, index) {
+                    // Use MouseRegion and GestureDetector to give the user
+                    // feedback when interecting with the component
                     return MouseRegion(
                         cursor: SystemMouseCursors.click,
                         child: GestureDetector(
@@ -91,6 +97,8 @@ class _RosterPageState extends State<RosterPage> {
                                     )))));
                   },
                   gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
+                    // The title default size could be tweaked to make room
+                    // for more information
                     crossAxisCount:
                         max(MediaQuery.of(context).size.shortestSide ~/ 150, 0),
                     crossAxisSpacing: 0,
