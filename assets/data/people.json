@@ -1,0 +1,3000 @@
+[
+    {
+        "name": "Luke Skywalker",
+        "height": "172",
+        "mass": "77",
+        "hair_color": "blond",
+        "skin_color": "fair",
+        "eye_color": "blue",
+        "birth_year": "19BBY",
+        "gender": "male",
+        "homeworld": 1,
+        "films": [
+            1,
+            2,
+            3,
+            6
+        ],
+        "species": [],
+        "vehicles": [
+            14,
+            30
+        ],
+        "starships": [
+            12,
+            22
+        ],
+        "created": "2014-12-09T13:50:51.644000Z",
+        "edited": "2014-12-20T21:17:56.891000Z",
+        "id": 1,
+        "died": 34,
+        "diedLocation": "ahch-to",
+        "cybernetics": "Prosthetic right hand",
+        "affiliations": [
+            "Alliance to Restore the Republic",
+            "Red Squadron",
+            "Rogue Squadron",
+            "Massassi Group",
+            "Leia Organa's team",
+            "Endor strike team",
+            "Jedi Order",
+            "Bright Tree tribe",
+            "New Republic",
+            "Resistance"
+        ],
+        "formerAffiliations": [],
+        "masters": [
+            "Obi-Wan Kenobi",
+            "Yoda"
+        ],
+        "apprentices": [
+            "Leia Organa",
+            "Ben Solo (along with a dozen apprentices)",
+            "Rey"
+        ],
+        "wiki": "https://starwars.wikia.com/wiki/Luke_Skywalker",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/2/20/LukeTLJ.jpg"
+    },
+    {
+        "name": "C-3PO",
+        "height": "167",
+        "mass": "75",
+        "hair_color": "n/a",
+        "skin_color": "gold",
+        "eye_color": "yellow",
+        "birth_year": "112BBY",
+        "gender": "n/a",
+        "homeworld": 1,
+        "films": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "species": [
+            2
+        ],
+        "vehicles": [],
+        "starships": [],
+        "created": "2014-12-10T15:10:51.357000Z",
+        "edited": "2014-12-20T21:17:50.309000Z",
+        "id": 2,
+        "affiliations": [
+            "Skywalker family",
+            "Confederacy of Independent Systems",
+            "Royal House of Naboo",
+            "Galactic Republic",
+            "House of Organa",
+            "Galactic Empire",
+            "Alliance to Restore the Republic",
+            "Massassi Group",
+            "Leia Organa's team",
+            "Pathfinders",
+            "Endor strike team",
+            "Bright Tree tribe",
+            "New Republic",
+            "Resistance",
+            "Resistance spy droid network"
+        ],
+        "formerAffiliations": [],
+        "wiki": "https://starwars.wikia.com/wiki/C-3PO",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/3/3f/C-3PO_TLJ_Card_Trader_Award_Card.png"
+    },
+    {
+        "name": "R2-D2",
+        "height": "96",
+        "mass": "32",
+        "hair_color": "n/a",
+        "skin_color": "white, blue",
+        "eye_color": "red",
+        "birth_year": "33BBY",
+        "gender": "n/a",
+        "homeworld": 8,
+        "films": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "species": [
+            2
+        ],
+        "vehicles": [],
+        "starships": [],
+        "created": "2014-12-10T15:11:50.376000Z",
+        "edited": "2014-12-20T21:17:50.311000Z",
+        "id": 3,
+        "affiliations": [
+            "Royal House of Naboo",
+            "Galactic Republic",
+            "501st Legion",
+            "R2-D2's battle droid squadron",
+            "D-Squad",
+            "House of Organa",
+            "Galactic Empire",
+            "Alliance to Restore the Republic",
+            "Massassi Group",
+            "Red Squadron",
+            "Leia Organa's team",
+            "Endor strike team",
+            "Bright Tree tribe",
+            "Resistance"
+        ],
+        "formerAffiliations": [],
+        "wiki": "https://starwars.wikia.com/wiki/R2-D2",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/e/eb/ArtooTFA2-Fathead.png"
+    },
+    {
+        "name": "Darth Vader",
+        "height": "202",
+        "mass": "136",
+        "hair_color": "none",
+        "skin_color": "white",
+        "eye_color": "yellow",
+        "birth_year": "41.9BBY",
+        "gender": "male",
+        "homeworld": 1,
+        "films": [
+            1,
+            2,
+            3,
+            6
+        ],
+        "species": [],
+        "vehicles": [],
+        "starships": [
+            13
+        ],
+        "created": "2014-12-10T15:18:20.704000Z",
+        "edited": "2014-12-20T21:17:50.313000Z",
+        "id": 4,
+        "died": 4,
+        "diedLocation": "death star ii, endor system",
+        "cybernetics": "Cybernetic right arm; later prosthetic arms and legs, and a life-support system",
+        "affiliations": [
+            "501st Legion",
+            "Sith",
+            "Galactic Empire",
+            "Imperial High Command"
+        ],
+        "formerAffiliations": [
+            "Jedi Order",
+            "Jedi High Council",
+            "Galactic Republic"
+        ],
+        "masters": [
+            "Qui-Gon Jinn (informal Jedi Master)",
+            "Obi-Wan Kenobi (Jedi Master)",
+            "Darth Sidious (Sith Master)",
+            "Yoda (Force spirit teacher)"
+        ],
+        "apprentices": [
+            "Ahsoka Tano (Padawan)",
+            "Inquisitorius"
+        ],
+        "wiki": "https://starwars.wikia.com/wiki/Anakin_Skywalker",
+        "image": "https://vignette.wikia.nocookie.net/fr.starwars/images/3/32/Dark_Vador.jpg"
+    },
+    {
+        "name": "Leia Organa",
+        "height": "150",
+        "mass": "49",
+        "hair_color": "brown",
+        "skin_color": "light",
+        "eye_color": "brown",
+        "birth_year": "19BBY",
+        "gender": "female",
+        "homeworld": 2,
+        "films": [
+            1,
+            2,
+            3,
+            6
+        ],
+        "species": [],
+        "vehicles": [
+            30
+        ],
+        "starships": [],
+        "created": "2014-12-10T15:20:09.791000Z",
+        "edited": "2014-12-20T21:17:50.315000Z",
+        "id": 5,
+        "affiliations": [
+            "Elder Houses",
+            "House of Organa",
+            "Galactic Empire",
+            "Imperial Senate",
+            "Alliance to Restore the Republic",
+            "Massassi Group",
+            "Leia Organa's team",
+            "Endor strike team",
+            "Alliance High Command",
+            "Bright Tree tribe",
+            "New Republic",
+            "Populists",
+            "Resistance"
+        ],
+        "formerAffiliations": [],
+        "masters": "Luke Skywalker",
+        "wiki": "https://starwars.wikia.com/wiki/Leia_Organa",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/f/fc/Leia_Organa_TLJ.png"
+    },
+    {
+        "name": "Owen Lars",
+        "height": "178",
+        "mass": "120",
+        "hair_color": "brown, grey",
+        "skin_color": "light",
+        "eye_color": "blue",
+        "birth_year": "52BBY",
+        "gender": "male",
+        "homeworld": 1,
+        "films": [
+            1,
+            5,
+            6
+        ],
+        "species": [],
+        "vehicles": [],
+        "starships": [],
+        "created": "2014-12-10T15:52:14.024000Z",
+        "edited": "2014-12-20T21:17:50.317000Z",
+        "id": 6,
+        "died": 0,
+        "diedLocation": "tatooine",
+        "affiliations": [
+            "Lars family"
+        ],
+        "formerAffiliations": [],
+        "wiki": "https://starwars.wikia.com/wiki/Owen_Lars",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/e/eb/OwenCardTrader.png"
+    },
+    {
+        "name": "Beru Whitesun lars",
+        "height": "165",
+        "mass": "75",
+        "hair_color": "brown",
+        "skin_color": "light",
+        "eye_color": "blue",
+        "birth_year": "47BBY",
+        "gender": "female",
+        "homeworld": 1,
+        "films": [
+            1,
+            5,
+            6
+        ],
+        "species": [],
+        "vehicles": [],
+        "starships": [],
+        "created": "2014-12-10T15:53:41.121000Z",
+        "edited": "2014-12-20T21:17:50.319000Z",
+        "id": 7,
+        "died": 0,
+        "diedLocation": "tatooine",
+        "affiliations": [],
+        "formerAffiliations": [],
+        "wiki": "https://starwars.wikia.com/wiki/Beru_Whitesun_Lars",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/c/cc/BeruCardTrader.png"
+    },
+    {
+        "name": "R5-D4",
+        "height": "97",
+        "mass": "32",
+        "hair_color": "n/a",
+        "skin_color": "white, red",
+        "eye_color": "red",
+        "birth_year": "unknown",
+        "gender": "n/a",
+        "homeworld": 1,
+        "films": [
+            1
+        ],
+        "species": [
+            2
+        ],
+        "vehicles": [],
+        "starships": [],
+        "created": "2014-12-10T15:57:50.959000Z",
+        "edited": "2014-12-20T21:17:50.321000Z",
+        "id": 8,
+        "affiliations": [
+            "Alliance to Restore the Republic"
+        ],
+        "formerAffiliations": [],
+        "wiki": "https://starwars.wikia.com/wiki/R5-D4",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/c/cb/R5-D4_Sideshow.png"
+    },
+    {
+        "name": "Biggs Darklighter",
+        "height": "183",
+        "mass": "84",
+        "hair_color": "black",
+        "skin_color": "light",
+        "eye_color": "brown",
+        "birth_year": "24BBY",
+        "gender": "male",
+        "homeworld": 1,
+        "films": [
+            1
+        ],
+        "species": [],
+        "vehicles": [],
+        "starships": [
+            12
+        ],
+        "created": "2014-12-10T15:59:50.509000Z",
+        "edited": "2014-12-20T21:17:50.323000Z",
+        "id": 9,
+        "died": 0,
+        "diedLocation": "yavin system",
+        "affiliations": [
+            "Galactic Empire",
+            "Prefsbelt Fleet Camp",
+            "Alliance to Restore the Republic",
+            "Red Squadron",
+            "Massassi Group"
+        ],
+        "formerAffiliations": [],
+        "wiki": "https://starwars.wikia.com/wiki/Biggs_Darklighter",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/0/00/BiggsHS-ANH.png"
+    },
+    {
+        "name": "Obi-Wan Kenobi",
+        "height": "182",
+        "mass": "77",
+        "hair_color": "auburn, white",
+        "skin_color": "fair",
+        "eye_color": "blue-gray",
+        "birth_year": "57BBY",
+        "gender": "male",
+        "homeworld": 20,
+        "films": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "species": [],
+        "vehicles": [
+            38
+        ],
+        "starships": [
+            48,
+            59,
+            64,
+            65,
+            74
+        ],
+        "created": "2014-12-10T16:16:29.192000Z",
+        "edited": "2014-12-20T21:17:50.325000Z",
+        "id": 10,
+        "died": 0,
+        "diedLocation": "death star, alderaan system",
+        "affiliations": [
+            "Jedi Order",
+            "Jedi High Council",
+            "Galactic Republic",
+            "212th Attack Battalion",
+            "Alliance to Restore the Republic"
+        ],
+        "formerAffiliations": [],
+        "masters": [
+            "Qui-Gon Jinn",
+            "Yoda"
+        ],
+        "apprentices": [
+            "Anakin Skywalker",
+            "Luke Skywalker"
+        ],
+        "wiki": "https://starwars.wikia.com/wiki/Obi-Wan_Kenobi",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/4/4e/ObiWanHS-SWE.jpg"
+    },
+    {
+        "name": "Anakin Skywalker",
+        "height": "188",
+        "mass": "84",
+        "hair_color": "blond",
+        "skin_color": "fair",
+        "eye_color": "blue",
+        "birth_year": "41.9BBY",
+        "gender": "male",
+        "homeworld": 1,
+        "films": [
+            4,
+            5,
+            6
+        ],
+        "species": [],
+        "vehicles": [
+            44,
+            46
+        ],
+        "starships": [
+            39,
+            59,
+            65
+        ],
+        "created": "2014-12-10T16:20:44.310000Z",
+        "edited": "2014-12-20T21:17:50.327000Z",
+        "id": 11,
+        "died": 4,
+        "diedLocation": "death star ii, endor system",
+        "cybernetics": "Cybernetic right arm; later prosthetic arms and legs, and a life-support system",
+        "affiliations": [
+            "501st Legion",
+            "Sith",
+            "Galactic Empire",
+            "Imperial High Command"
+        ],
+        "formerAffiliations": [
+            "Jedi Order",
+            "Jedi High Council",
+            "Galactic Republic"
+        ],
+        "masters": [
+            "Qui-Gon Jinn (informal Jedi Master)",
+            "Obi-Wan Kenobi (Jedi Master)",
+            "Darth Sidious (Sith Master)",
+            "Yoda (Force spirit teacher)"
+        ],
+        "apprentices": [
+            "Ahsoka Tano (Padawan)",
+            "Inquisitorius"
+        ],
+        "wiki": "https://starwars.wikia.com/wiki/Anakin_Skywalker",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/6/6f/Anakin_Skywalker_RotS.png"
+    },
+    {
+        "name": "Wilhuff Tarkin",
+        "height": "180",
+        "mass": "unknown",
+        "hair_color": "auburn, grey",
+        "skin_color": "fair",
+        "eye_color": "blue",
+        "birth_year": "64BBY",
+        "gender": "male",
+        "homeworld": 21,
+        "films": [
+            1,
+            6
+        ],
+        "species": [],
+        "vehicles": [],
+        "starships": [],
+        "created": "2014-12-10T16:26:56.138000Z",
+        "edited": "2014-12-20T21:17:50.330000Z",
+        "id": 12,
+        "died": 0,
+        "diedLocation": " death star, yavin system",
+        "affiliations": [
+            "Galactic Republic",
+            "Sullust Sector Spacefarers Academy",
+            "Judicial Forces",
+            "Republic Navy",
+            "Strategic Advisory Cell",
+            "Outland Regions Security Force",
+            "Outland's anti-pirate taskforce",
+            "Galactic Empire",
+            "Battle Station Command",
+            "Imperial Officer Corps",
+            "Imperial Navy",
+            "Tarkin Initiative"
+        ],
+        "formerAffiliations": [],
+        "wiki": "https://starwars.wikia.com/wiki/Wilhuff_Tarkin",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/c/c1/Tarkininfobox.jpg"
+    },
+    {
+        "name": "Chewbacca",
+        "height": "228",
+        "mass": "112",
+        "hair_color": "brown",
+        "skin_color": "unknown",
+        "eye_color": "blue",
+        "birth_year": "200BBY",
+        "gender": "male",
+        "homeworld": 14,
+        "films": [
+            1,
+            2,
+            3,
+            6
+        ],
+        "species": [
+            3
+        ],
+        "vehicles": [
+            19
+        ],
+        "starships": [
+            10,
+            22
+        ],
+        "created": "2014-12-10T16:42:45.066000Z",
+        "edited": "2014-12-20T21:17:50.332000Z",
+        "id": 13,
+        "affiliations": [
+            "Galactic Republic",
+            "Alliance to Restore the Republic",
+            "Leia Organa's team",
+            "Pathfinders",
+            "Endor strike team",
+            "Bright Tree tribe",
+            "New Republic",
+            "Resistance"
+        ],
+        "formerAffiliations": [],
+        "wiki": "https://starwars.wikia.com/wiki/Chewbacca",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/4/48/Chewbacca_TLJ.png"
+    },
+    {
+        "name": "Han Solo",
+        "height": "180",
+        "mass": "80",
+        "hair_color": "brown",
+        "skin_color": "fair",
+        "eye_color": "brown",
+        "birth_year": "29BBY",
+        "gender": "male",
+        "homeworld": 22,
+        "films": [
+            1,
+            2,
+            3
+        ],
+        "species": [],
+        "vehicles": [],
+        "starships": [
+            10,
+            22
+        ],
+        "created": "2014-12-10T16:49:14.582000Z",
+        "edited": "2014-12-20T21:17:50.334000Z",
+        "id": 14,
+        "died": 34,
+        "diedLocation": "starkiller base",
+        "affiliations": [
+            "Galactic Empire",
+            "Jabba Desilijic Tiure's criminal empire",
+            "Alliance to Restore the Republic",
+            "Leia Organa's team",
+            "Endor strike team",
+            "Kingdom of Han",
+            "Bright Tree tribe",
+            "New Republic",
+            "New Republic Pilots Commission",
+            "Han Solo's shipping company",
+            "Resistance"
+        ],
+        "formerAffiliations": [],
+        "wiki": "https://starwars.wikia.com/wiki/Han_Solo",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/e/e2/TFAHanSolo.png"
+    },
+    {
+        "name": "Greedo",
+        "height": "173",
+        "mass": "74",
+        "hair_color": "n/a",
+        "skin_color": "green",
+        "eye_color": "black",
+        "birth_year": "44BBY",
+        "gender": "male",
+        "homeworld": 23,
+        "films": [
+            1
+        ],
+        "species": [
+            4
+        ],
+        "vehicles": [],
+        "starships": [],
+        "created": "2014-12-10T17:03:30.334000Z",
+        "edited": "2014-12-20T21:17:50.336000Z",
+        "id": 15,
+        "died": 0,
+        "diedLocation": "tatooine",
+        "affiliations": [
+            "Trade Federation"
+        ],
+        "formerAffiliations": [],
+        "wiki": "https://starwars.wikia.com/wiki/Greedo",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/c/c6/Greedo.jpg"
+    },
+    {
+        "name": "Jabba Desilijic Tiure",
+        "height": "175",
+        "mass": "1,358",
+        "hair_color": "n/a",
+        "skin_color": "green-tan, brown",
+        "eye_color": "orange",
+        "birth_year": "600BBY",
+        "gender": "hermaphrodite",
+        "homeworld": 24,
+        "films": [
+            1,
+            3,
+            4
+        ],
+        "species": [
+            5
+        ],
+        "vehicles": [],
+        "starships": [],
+        "created": "2014-12-10T17:11:31.638000Z",
+        "edited": "2014-12-20T21:17:50.338000Z",
+        "id": 16,
+        "died": 4,
+        "diedLocation": "tatooine",
+        "affiliations": [
+            "Hutt Clan",
+            "Grand Hutt Council",
+            "Jabba Desilijic Tiure's criminal empire",
+            "Galactic Republic",
+            "Shadow Collective",
+            "Crymorah syndicate",
+            "Galactic Empire"
+        ],
+        "formerAffiliations": [],
+        "wiki": "https://starwars.wikia.com/wiki/Jabba_Desilijic_Tiure",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/7/7f/Jabba_SWSB.png"
+    },
+    {
+        "name": "Wedge Antilles",
+        "height": "170",
+        "mass": "77",
+        "hair_color": "brown",
+        "skin_color": "fair",
+        "eye_color": "hazel",
+        "birth_year": "21BBY",
+        "gender": "male",
+        "homeworld": 22,
+        "films": [
+            1,
+            2,
+            3
+        ],
+        "species": [],
+        "vehicles": [
+            14
+        ],
+        "starships": [
+            12
+        ],
+        "created": "2014-12-12T11:08:06.469000Z",
+        "edited": "2014-12-20T21:17:50.341000Z",
+        "id": 18,
+        "affiliations": [
+            "Galactic Empire",
+            "Alliance to Restore the Republic",
+            "Phoenix Cell",
+            "Massassi Group",
+            "Red Squadron",
+            "Rogue Squadron",
+            "New Republic",
+            "Phantom Squadron"
+        ],
+        "formerAffiliations": [],
+        "wiki": "https://starwars.wikia.com/wiki/Wedge_Antilles",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/6/60/WedgeHelmetless-ROTJHD.jpg"
+    },
+    {
+        "name": "Jek Tono Porkins",
+        "height": "180",
+        "mass": "110",
+        "hair_color": "brown",
+        "skin_color": "fair",
+        "eye_color": "blue",
+        "birth_year": "unknown",
+        "gender": "male",
+        "homeworld": 26,
+        "films": [
+            1
+        ],
+        "species": [],
+        "vehicles": [],
+        "starships": [
+            12
+        ],
+        "created": "2014-12-12T11:16:56.569000Z",
+        "edited": "2014-12-20T21:17:50.343000Z",
+        "id": 19,
+        "died": 0,
+        "diedLocation": "yavin system",
+        "affiliations": [
+            "Alliance to Restore the Republic",
+            "Tierfon Yellow Aces",
+            "Red Squadron",
+            "Massassi Group"
+        ],
+        "formerAffiliations": [],
+        "wiki": "https://starwars.wikia.com/wiki/Jek_Tono_Porkins",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/e/eb/JekPorkins-DB.png"
+    },
+    {
+        "name": "Yoda",
+        "height": "66",
+        "mass": "17",
+        "hair_color": "white",
+        "skin_color": "green",
+        "eye_color": "brown",
+        "birth_year": "896BBY",
+        "gender": "male",
+        "homeworld": 28,
+        "films": [
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "species": [
+            6
+        ],
+        "vehicles": [],
+        "starships": [],
+        "created": "2014-12-15T12:26:01.042000Z",
+        "edited": "2014-12-20T21:17:50.345000Z",
+        "id": 20,
+        "died": 4,
+        "diedLocation": "dagobah",
+        "affiliations": [
+            "Jedi Order",
+            "Jedi High Council",
+            "Galactic Republic",
+            "Grand Army of the Republic"
+        ],
+        "formerAffiliations": [],
+        "masters": [
+            "Unidentified Jedi (Jedi Master)",
+            "Garro (stonepower master)",
+            "Qui-Gon Jinn (as Force spirit)"
+        ],
+        "apprentices": [
+            "Dooku (Padawan)",
+            "Obi-Wan Kenobi",
+            "Luke Skywalker",
+            "Anakin Skywalker (as Force spirit)"
+        ],
+        "wiki": "https://starwars.wikia.com/wiki/Yoda",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/d/d6/Yoda_SWSB.png"
+    },
+    {
+        "name": "Palpatine",
+        "height": "170",
+        "mass": "75",
+        "hair_color": "grey",
+        "skin_color": "pale",
+        "eye_color": "yellow",
+        "birth_year": "82BBY",
+        "gender": "male",
+        "homeworld": 8,
+        "films": [
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "species": [],
+        "vehicles": [],
+        "starships": [],
+        "created": "2014-12-15T12:48:05.971000Z",
+        "edited": "2014-12-20T21:17:50.347000Z",
+        "id": 21,
+        "died": 4,
+        "diedLocation": "death star ii (original body)",
+        "affiliations": [
+            "House Palpatine",
+            "Damask Holdings",
+            "Royal House of Naboo",
+            "Sith",
+            "Order of the Sith Lords",
+            "Naboo Diplomatic Corps",
+            "Galactic Republic",
+            "Galactic Senate",
+            "Trade Federation",
+            "Confederacy of Independent Systems",
+            "Galactic Empire",
+            "Dark Empire"
+        ],
+        "formerAffiliations": [],
+        "masters": "Darth Plagueis",
+        "apprentices": [
+            "Darth Maul",
+            "A Nikto",
+            "Vergere",
+            "Darth Tyranus",
+            "Garth Ezzar",
+            "Darth Vader",
+            "Ferus Olin (informal)",
+            "Mara Jade",
+            "Cronal",
+            "Lumiya",
+            "Luke Skywalker (briefly)"
+        ],
+        "wiki": "https://starwars.wikia.com/wiki/Palpatine",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/d/d8/Emperor_Sidious.png"
+    },
+    {
+        "name": "Boba Fett",
+        "height": "183",
+        "mass": "78.2",
+        "hair_color": "black",
+        "skin_color": "fair",
+        "eye_color": "brown",
+        "birth_year": "31.5BBY",
+        "gender": "male",
+        "homeworld": 10,
+        "films": [
+            2,
+            3,
+            5
+        ],
+        "species": [],
+        "vehicles": [],
+        "starships": [
+            21
+        ],
+        "created": "2014-12-15T12:49:32.457000Z",
+        "edited": "2014-12-20T21:17:50.349000Z",
+        "id": 22,
+        "affiliations": [
+            "Confederacy of Independent Systems",
+            "Boba Fett's syndicate",
+            "Jabba Desilijic Tiure's criminal empire",
+            "Galactic Empire"
+        ],
+        "formerAffiliations": [],
+        "wiki": "https://starwars.wikia.com/wiki/Boba_Fett",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/7/79/Boba_Fett_HS_Fathead.png"
+    },
+    {
+        "name": "IG-88",
+        "height": "200",
+        "mass": "140",
+        "hair_color": "none",
+        "skin_color": "metal",
+        "eye_color": "red",
+        "birth_year": "15BBY",
+        "gender": "none",
+        "homeworld": 28,
+        "films": [
+            2
+        ],
+        "species": [
+            2
+        ],
+        "vehicles": [],
+        "starships": [],
+        "created": "2014-12-15T12:51:10.076000Z",
+        "edited": "2014-12-20T21:17:50.351000Z",
+        "id": 23,
+        "affiliations": [],
+        "formerAffiliations": [],
+        "wiki": "https://starwars.wikia.com/wiki/IG-88",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/f/f2/IG-88.png"
+    },
+    {
+        "name": "Bossk",
+        "height": "190",
+        "mass": "113",
+        "hair_color": "none",
+        "skin_color": "green",
+        "eye_color": "red",
+        "birth_year": "53BBY",
+        "gender": "male",
+        "homeworld": 29,
+        "films": [
+            2
+        ],
+        "species": [
+            7
+        ],
+        "vehicles": [],
+        "starships": [],
+        "created": "2014-12-15T12:53:49.297000Z",
+        "edited": "2014-12-20T21:17:50.355000Z",
+        "id": 24,
+        "affiliations": [
+            "Bounty Hunters' Guild",
+            "Boba Fett's syndicate",
+            "Galactic Empire",
+            "Chelli Aphra's crew"
+        ],
+        "formerAffiliations": [],
+        "wiki": "https://starwars.wikia.com/wiki/Bossk",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/1/1d/Bossk.png"
+    },
+    {
+        "name": "Lando Calrissian",
+        "height": "177",
+        "mass": "79",
+        "hair_color": "black",
+        "skin_color": "dark",
+        "eye_color": "brown",
+        "birth_year": "31BBY",
+        "gender": "male",
+        "homeworld": 30,
+        "films": [
+            2,
+            3
+        ],
+        "species": [],
+        "vehicles": [],
+        "starships": [
+            10
+        ],
+        "created": "2014-12-15T12:56:32.683000Z",
+        "edited": "2014-12-20T21:17:50.357000Z",
+        "id": 25,
+        "affiliations": [
+            "Cloud City colony",
+            "Galactic Empire",
+            "Alliance to Restore the Republic",
+            "Gold Squadron",
+            "New Republic",
+            "New Republic military",
+            "Uprising",
+            "Calrissian Enterprises"
+        ],
+        "formerAffiliations": [],
+        "wiki": "https://starwars.wikia.com/wiki/Lando_Calrissian",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/8/8f/Lando_ROTJ.png"
+    },
+    {
+        "name": "Lobot",
+        "height": "175",
+        "mass": "79",
+        "hair_color": "none",
+        "skin_color": "light",
+        "eye_color": "blue",
+        "birth_year": "37BBY",
+        "gender": "male",
+        "homeworld": 6,
+        "films": [
+            2
+        ],
+        "species": [],
+        "vehicles": [],
+        "starships": [],
+        "created": "2014-12-15T13:01:57.178000Z",
+        "edited": "2014-12-20T21:17:50.359000Z",
+        "id": 26,
+        "cybernetics": "AJ^6 cyborg construct",
+        "affiliations": [
+            "Galactic Empire",
+            "Imperial Military",
+            "Cloud City",
+            "Alliance to Restore the Republic",
+            "New Republic"
+        ],
+        "formerAffiliations": [],
+        "wiki": "https://starwars.wikia.com/wiki/Lobot",
+        "image": "https://static.wikia.nocookie.net/starwars/images/7/72/Lobot-SWE.png"
+    },
+    {
+        "name": "Ackbar",
+        "height": "180",
+        "mass": "83",
+        "hair_color": "none",
+        "skin_color": "brown mottle",
+        "eye_color": "orange",
+        "birth_year": "41BBY",
+        "gender": "male",
+        "homeworld": 31,
+        "films": [
+            3
+        ],
+        "species": [
+            8
+        ],
+        "vehicles": [],
+        "starships": [],
+        "created": "2014-12-18T11:07:50.584000Z",
+        "edited": "2014-12-20T21:17:50.362000Z",
+        "id": 27,
+        "died": 34,
+        "diedLocation": "raddus, oetchi system",
+        "affiliations": [
+            "Mon Cala monarchy",
+            "Mon Calamari Guard",
+            "Galactic Republic",
+            "Galactic Empire",
+            "Alliance to Restore the Republic",
+            "Alliance Fleet",
+            "Alliance High Command",
+            "New Republic",
+            "New Republic Defense Fleet",
+            "Resistance",
+            "Resistance High Command",
+            "Resistance Fleet Command",
+            "Resistance navy"
+        ],
+        "formerAffiliations": [],
+        "wiki": "https://starwars.wikia.com/wiki/Gial_Ackbar",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/2/29/Admiral_Ackbar_RH.png"
+    },
+    {
+        "name": "Mon Mothma",
+        "height": "150",
+        "mass": "unknown",
+        "hair_color": "auburn",
+        "skin_color": "fair",
+        "eye_color": "blue",
+        "birth_year": "48BBY",
+        "gender": "female",
+        "homeworld": 32,
+        "films": [
+            3
+        ],
+        "species": [],
+        "vehicles": [],
+        "starships": [],
+        "created": "2014-12-18T11:12:38.895000Z",
+        "edited": "2014-12-20T21:17:50.364000Z",
+        "id": 28,
+        "affiliations": [
+            "Galactic Republic",
+            "Loyalist Committee",
+            "Delegation of 2,000",
+            "Galactic Empire",
+            "Imperial Senate",
+            "Mon Mothma's rebel cell",
+            "Alliance to Restore the Republic",
+            "New Republic"
+        ],
+        "formerAffiliations": [],
+        "wiki": "https://starwars.wikia.com/wiki/Mon_Mothma",
+        "image": "https://static.wikia.nocookie.net/starwars/images/4/46/Monmothma.jpg"
+    },
+    {
+        "name": "Arvel Crynyd",
+        "height": "unknown",
+        "mass": "unknown",
+        "hair_color": "brown",
+        "skin_color": "fair",
+        "eye_color": "brown",
+        "birth_year": "unknown",
+        "gender": "male",
+        "homeworld": 28,
+        "films": [
+            3
+        ],
+        "species": [],
+        "vehicles": [],
+        "starships": [
+            28
+        ],
+        "created": "2014-12-18T11:16:33.020000Z",
+        "edited": "2014-12-20T21:17:50.367000Z",
+        "id": 29,
+        "died": 4,
+        "diedLocation": "executor",
+        "affiliations": [
+            "Alliance to Restore the Republic",
+            "Green Squadron"
+        ],
+        "formerAffiliations": [],
+        "wiki": "https://starwars.wikia.com/wiki/Arvel_Crynyd",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/d/de/Arvel-crynyd.jpg"
+    },
+    {
+        "name": "Wicket Systri Warrick",
+        "height": "88",
+        "mass": "20",
+        "hair_color": "brown",
+        "skin_color": "brown",
+        "eye_color": "brown",
+        "birth_year": "8BBY",
+        "gender": "male",
+        "homeworld": 7,
+        "films": [
+            3
+        ],
+        "species": [
+            9
+        ],
+        "vehicles": [],
+        "starships": [],
+        "created": "2014-12-18T11:21:58.954000Z",
+        "edited": "2014-12-20T21:17:50.369000Z",
+        "id": 30,
+        "affiliations": [
+            "Bright Tree tribe",
+            "Alliance to Restore the Republic"
+        ],
+        "formerAffiliations": [],
+        "wiki": "https://starwars.wikia.com/wiki/Wicket_W._Warrick",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/4/4f/Wicket_RotJ.png"
+    },
+    {
+        "name": "Nien Nunb",
+        "height": "160",
+        "mass": "68",
+        "hair_color": "none",
+        "skin_color": "grey",
+        "eye_color": "black",
+        "birth_year": "unknown",
+        "gender": "male",
+        "homeworld": 33,
+        "films": [
+            3
+        ],
+        "species": [
+            10
+        ],
+        "vehicles": [],
+        "starships": [
+            10
+        ],
+        "created": "2014-12-18T11:26:18.541000Z",
+        "edited": "2014-12-20T21:17:50.371000Z",
+        "id": 31,
+        "affiliations": [
+            "House of Organa",
+            "Alliance to Restore the Republic",
+            "Gold Squadron",
+            "New Republic",
+            "Resistance",
+            "Red Squadron"
+        ],
+        "formerAffiliations": [],
+        "wiki": "https://starwars.wikia.com/wiki/Nien_Nunb",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/1/14/Old_nien_nunb_-_profile.png"
+    },
+    {
+        "name": "Qui-Gon Jinn",
+        "height": "193",
+        "mass": "89",
+        "hair_color": "brown",
+        "skin_color": "fair",
+        "eye_color": "blue",
+        "birth_year": "92BBY",
+        "gender": "male",
+        "homeworld": 28,
+        "films": [
+            4
+        ],
+        "species": [],
+        "vehicles": [
+            38
+        ],
+        "starships": [],
+        "created": "2014-12-19T16:54:53.618000Z",
+        "edited": "2014-12-20T21:17:50.375000Z",
+        "id": 32,
+        "died": -32,
+        "diedLocation": "naboo",
+        "affiliations": [
+            "Jedi Order",
+            "Galactic Republic"
+        ],
+        "formerAffiliations": [],
+        "masters": "Dooku",
+        "apprentices": [
+            "Obi-Wan Kenobi",
+            "Anakin Skywalker (informally)",
+            "Yoda (as Force spirit)"
+        ],
+        "wiki": "https://starwars.wikia.com/wiki/Qui-Gon_Jinn",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/f/f6/Qui-Gon_Jinn_Headshot_TPM.jpg"
+    },
+    {
+        "name": "Nute Gunray",
+        "height": "191",
+        "mass": "90",
+        "hair_color": "none",
+        "skin_color": "mottled green",
+        "eye_color": "red",
+        "birth_year": "unknown",
+        "gender": "male",
+        "homeworld": 18,
+        "films": [
+            4,
+            5,
+            6
+        ],
+        "species": [
+            11
+        ],
+        "vehicles": [],
+        "starships": [],
+        "created": "2014-12-19T17:05:57.357000Z",
+        "edited": "2014-12-20T21:17:50.377000Z",
+        "id": 33,
+        "died": -19,
+        "diedLocation": "mustafar",
+        "affiliations": [
+            "Trade Federation",
+            "Confederacy of Independent Systems",
+            "Separatist Council"
+        ],
+        "formerAffiliations": [],
+        "wiki": "https://starwars.wikia.com/wiki/Nute_Gunray",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/f/fd/Nute_Gunray_SWE.png"
+    },
+    {
+        "name": "Finis Valorum",
+        "height": "170",
+        "mass": "unknown",
+        "hair_color": "blond",
+        "skin_color": "fair",
+        "eye_color": "blue",
+        "birth_year": "91BBY",
+        "gender": "male",
+        "homeworld": 9,
+        "films": [
+            4
+        ],
+        "species": [],
+        "vehicles": [],
+        "starships": [],
+        "created": "2014-12-19T17:21:45.915000Z",
+        "edited": "2014-12-20T21:17:50.379000Z",
+        "id": 34,
+        "affiliations": [
+            "House Valorum",
+            "Galactic Republic",
+            "Galactic Senate"
+        ],
+        "formerAffiliations": [],
+        "wiki": "https://starwars.wikia.com/wiki/Finis_Valorum",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/5/51/ValorumPortrait-SWE.png"
+    },
+    {
+        "name": "Padmé Amidala",
+        "height": "185",
+        "mass": "45",
+        "hair_color": "brown",
+        "skin_color": "light",
+        "eye_color": "brown",
+        "birth_year": "46BBY",
+        "gender": "female",
+        "homeworld": 8,
+        "films": [
+            4,
+            5,
+            6
+        ],
+        "species": [],
+        "vehicles": [],
+        "starships": [
+            39,
+            49,
+            64
+        ],
+        "created": "2014-12-19T17:28:26.926000Z",
+        "edited": "2014-12-20T21:17:50.381000Z",
+        "id": 35,
+        "died": -19,
+        "diedLocation": "polis massa (2 days after empire day)",
+        "affiliations": [
+            "Apprentice Legislators",
+            "Legislative Youth Program",
+            "Royal House of Naboo",
+            "Galactic Republic",
+            "Loyalist Committee",
+            "Delegation of 2,000",
+            "Galactic Empire",
+            "Imperial Senate"
+        ],
+        "formerAffiliations": [],
+        "wiki": "https://starwars.wikia.com/wiki/Padm%C3%A9_Amidala",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/b/b2/Padmegreenscrshot.jpg"
+    },
+    {
+        "name": "Jar Jar Binks",
+        "height": "196",
+        "mass": "66",
+        "hair_color": "none",
+        "skin_color": "orange",
+        "eye_color": "orange",
+        "birth_year": "52BBY",
+        "gender": "male",
+        "homeworld": 8,
+        "films": [
+            4,
+            5
+        ],
+        "species": [
+            12
+        ],
+        "vehicles": [],
+        "starships": [],
+        "created": "2014-12-19T17:29:32.489000Z",
+        "edited": "2014-12-20T21:17:50.383000Z",
+        "id": 36,
+        "affiliations": [
+            "Gungan High Council",
+            "Officer corps",
+            "Galactic Republic",
+            "Naboo delegation",
+            "Galactic Empire",
+            "Imperial Senate"
+        ],
+        "formerAffiliations": [],
+        "wiki": "https://starwars.wikia.com/wiki/Jar_Jar_Binks",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/d/d2/Jar_Jar_aotc.jpg"
+    },
+    {
+        "name": "Roos Tarpals",
+        "height": "224",
+        "mass": "82",
+        "hair_color": "none",
+        "skin_color": "grey",
+        "eye_color": "orange",
+        "birth_year": "unknown",
+        "gender": "male",
+        "homeworld": 8,
+        "films": [
+            4
+        ],
+        "species": [
+            12
+        ],
+        "vehicles": [],
+        "starships": [],
+        "created": "2014-12-19T17:32:56.741000Z",
+        "edited": "2014-12-20T21:17:50.385000Z",
+        "id": 37,
+        "died": -20,
+        "diedLocation": "naboo",
+        "affiliations": [
+            "Gungan Grand Army"
+        ],
+        "formerAffiliations": [],
+        "wiki": "https://starwars.wikia.com/wiki/Roos_Tarpals",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/c/ca/TarpalsHS.jpg"
+    },
+    {
+        "name": "Rugor Nass",
+        "height": "206",
+        "mass": "unknown",
+        "hair_color": "none",
+        "skin_color": "green",
+        "eye_color": "orange",
+        "birth_year": "unknown",
+        "gender": "male",
+        "homeworld": 8,
+        "films": [
+            4
+        ],
+        "species": [
+            12
+        ],
+        "vehicles": [],
+        "starships": [],
+        "created": "2014-12-19T17:33:38.909000Z",
+        "edited": "2014-12-20T21:17:50.388000Z",
+        "id": 38,
+        "affiliations": [
+            "Gungan High Council"
+        ],
+        "formerAffiliations": [],
+        "wiki": "https://starwars.wikia.com/wiki/Rugor_Nass",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/d/d8/Bossnass.jpg"
+    },
+    {
+        "name": "Ric Olié",
+        "height": "183",
+        "mass": "unknown",
+        "hair_color": "brown",
+        "skin_color": "fair",
+        "eye_color": "blue",
+        "birth_year": "unknown",
+        "gender": "male",
+        "homeworld": 8,
+        "films": [
+            4
+        ],
+        "species": [],
+        "vehicles": [],
+        "starships": [
+            40
+        ],
+        "created": "2014-12-19T17:45:01.522000Z",
+        "edited": "2014-12-20T21:17:50.392000Z",
+        "id": 39,
+        "affiliations": [
+            "Royal House of Naboo",
+            "Royal Naboo Security Forces",
+            "Bravo Flight"
+        ],
+        "formerAffiliations": [],
+        "wiki": "https://starwars.wikia.com/wiki/Ric_Oli%C3%A9",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/4/4c/RicOlieHS-SWE.png"
+    },
+    {
+        "name": "Watto",
+        "height": "137",
+        "mass": "unknown",
+        "hair_color": "black",
+        "skin_color": "blue, grey",
+        "eye_color": "yellow",
+        "birth_year": "unknown",
+        "gender": "male",
+        "homeworld": 34,
+        "films": [
+            4,
+            5
+        ],
+        "species": [
+            13
+        ],
+        "vehicles": [],
+        "starships": [],
+        "created": "2014-12-19T17:48:54.647000Z",
+        "edited": "2014-12-20T21:17:50.395000Z",
+        "id": 40,
+        "affiliations": [
+            "Watto's shop",
+            "Mos Espa"
+        ],
+        "formerAffiliations": [],
+        "wiki": "https://starwars.wikia.com/wiki/Watto",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/e/eb/WattoHS.jpg"
+    },
+    {
+        "name": "Sebulba",
+        "height": "112",
+        "mass": "40",
+        "hair_color": "none",
+        "skin_color": "grey, red",
+        "eye_color": "orange",
+        "birth_year": "unknown",
+        "gender": "male",
+        "homeworld": 35,
+        "films": [
+            4
+        ],
+        "species": [
+            14
+        ],
+        "vehicles": [],
+        "starships": [],
+        "created": "2014-12-19T17:53:02.586000Z",
+        "edited": "2014-12-20T21:17:50.397000Z",
+        "id": 41,
+        "affiliations": [],
+        "formerAffiliations": [],
+        "wiki": "https://starwars.wikia.com/wiki/Sebulba",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/1/14/Sebulba_Headshot_Closeup.png"
+    },
+    {
+        "name": "Quarsh Panaka",
+        "height": "183",
+        "mass": "unknown",
+        "hair_color": "black",
+        "skin_color": "dark",
+        "eye_color": "brown",
+        "birth_year": "62BBY",
+        "gender": "male",
+        "homeworld": 8,
+        "films": [
+            4
+        ],
+        "species": [],
+        "vehicles": [],
+        "starships": [],
+        "created": "2014-12-19T17:55:43.348000Z",
+        "edited": "2014-12-20T21:17:50.399000Z",
+        "id": 42,
+        "died": -3,
+        "diedLocation": "onoam",
+        "affiliations": [
+            "Royal House of Naboo",
+            "Royal Naboo Security Forces",
+            "Galactic Republic",
+            "Republic Special Task Force",
+            "Galactic Empire"
+        ],
+        "formerAffiliations": [],
+        "wiki": "https://starwars.wikia.com/wiki/Quarsh_Panaka",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/7/72/PanakaHS-TPM.png"
+    },
+    {
+        "name": "Shmi Skywalker",
+        "height": "163",
+        "mass": "unknown",
+        "hair_color": "black",
+        "skin_color": "fair",
+        "eye_color": "brown",
+        "birth_year": "72BBY",
+        "gender": "female",
+        "homeworld": 1,
+        "films": [
+            4,
+            5
+        ],
+        "species": [],
+        "vehicles": [],
+        "starships": [],
+        "created": "2014-12-19T17:57:41.191000Z",
+        "edited": "2014-12-20T21:17:50.401000Z",
+        "id": 43,
+        "died": -22,
+        "diedLocation": "tatooine",
+        "affiliations": [
+            "Skywalker family",
+            "Lars family"
+        ],
+        "formerAffiliations": [],
+        "wiki": "https://starwars.wikia.com/wiki/Shmi_Skywalker_Lars",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/a/ad/ShmiSkywalkerDatabank_%28Repurposed%29.jpeg"
+    },
+    {
+        "name": "Darth Maul",
+        "height": "175",
+        "mass": "80",
+        "hair_color": "none",
+        "skin_color": "red",
+        "eye_color": "yellow",
+        "birth_year": "54BBY",
+        "gender": "male",
+        "homeworld": 36,
+        "films": [
+            4
+        ],
+        "species": [
+            22
+        ],
+        "vehicles": [
+            42
+        ],
+        "starships": [
+            41
+        ],
+        "created": "2014-12-19T18:00:41.929000Z",
+        "edited": "2014-12-20T21:17:50.403000Z",
+        "id": 44,
+        "died": -2,
+        "diedLocation": "tatooine",
+        "cybernetics": [
+            "Six-legged apparatus (formerly)",
+            "Two cybernetic legs"
+        ],
+        "affiliations": [
+            "Nightbrothers",
+            "Sith",
+            "Cad Bane's group",
+            "Death Watch",
+            "Shadow Collective"
+        ],
+        "formerAffiliations": [
+            "Trade Federation"
+        ],
+        "masters": "Darth Sidious",
+        "apprentices": "Savage Opress",
+        "wiki": "https://starwars.wikia.com/wiki/Darth_Maul",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/5/50/Darth_Maul_profile.png"
+    },
+    {
+        "name": "Bib Fortuna",
+        "height": "180",
+        "mass": "unknown",
+        "hair_color": "none",
+        "skin_color": "pale",
+        "eye_color": "pink",
+        "birth_year": "unknown",
+        "gender": "male",
+        "homeworld": 37,
+        "films": [
+            3
+        ],
+        "species": [
+            15
+        ],
+        "vehicles": [],
+        "starships": [],
+        "created": "2014-12-20T09:47:02.512000Z",
+        "edited": "2014-12-20T21:17:50.407000Z",
+        "id": 45,
+        "died": 4,
+        "diedLocation": "tatooine",
+        "affiliations": [
+            "Fortuna family",
+            "Jabba Desilijic Tiure's criminal empire"
+        ],
+        "formerAffiliations": [],
+        "wiki": "https://starwars.wikia.com/wiki/Bib_Fortuna",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/3/33/BibFortunaHS-ROTJ.png"
+    },
+    {
+        "name": "Ayla Secura",
+        "height": "178",
+        "mass": "55",
+        "hair_color": "none",
+        "skin_color": "blue",
+        "eye_color": "hazel",
+        "birth_year": "48BBY",
+        "gender": "female",
+        "homeworld": 37,
+        "films": [
+            4,
+            5,
+            6
+        ],
+        "species": [
+            15
+        ],
+        "vehicles": [],
+        "starships": [],
+        "created": "2014-12-20T09:48:01.172000Z",
+        "edited": "2014-12-20T21:17:50.409000Z",
+        "id": 46,
+        "died": -19,
+        "diedLocation": "felucia",
+        "affiliations": [
+            "Jedi Order",
+            "Galactic Republic"
+        ],
+        "formerAffiliations": [],
+        "masters": [
+            "Quinlan Vos (Jedi Master)",
+            "Volfe Karkko (Dark Jedi master) (briefly)",
+            "Tholme (Jedi Master)"
+        ],
+        "wiki": "https://starwars.wikia.com/wiki/Aayla_Secura/Legends",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/f/f9/Aayla.jpg"
+    },
+    {
+        "name": "Ratts Tyerel",
+        "height": "79",
+        "mass": "15",
+        "hair_color": "none",
+        "skin_color": "grey, blue",
+        "eye_color": "unknown",
+        "birth_year": "unknown",
+        "gender": "male",
+        "homeworld": 38,
+        "films": [
+            4
+        ],
+        "species": [
+            16
+        ],
+        "vehicles": [],
+        "starships": [],
+        "created": "2014-12-20T09:53:15.086000Z",
+        "edited": "2014-12-20T21:17:50.410000Z",
+        "id": 47
+    },
+    {
+        "name": "Dud Bolt",
+        "height": "94",
+        "mass": "45",
+        "hair_color": "none",
+        "skin_color": "blue, grey",
+        "eye_color": "yellow",
+        "birth_year": "unknown",
+        "gender": "male",
+        "homeworld": 39,
+        "films": [
+            4
+        ],
+        "species": [
+            17
+        ],
+        "vehicles": [],
+        "starships": [],
+        "created": "2014-12-20T09:57:31.858000Z",
+        "edited": "2014-12-20T21:17:50.414000Z",
+        "id": 48,
+        "affiliations": [],
+        "formerAffiliations": [],
+        "wiki": "https://starwars.wikia.com/wiki/Dud_Bolt",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/7/73/Dud_Bolt_Podracer_Cockpit.png"
+    },
+    {
+        "name": "Gasgano",
+        "height": "122",
+        "mass": "unknown",
+        "hair_color": "none",
+        "skin_color": "white, blue",
+        "eye_color": "black",
+        "birth_year": "unknown",
+        "gender": "male",
+        "homeworld": 40,
+        "films": [
+            4
+        ],
+        "species": [
+            18
+        ],
+        "vehicles": [],
+        "starships": [],
+        "created": "2014-12-20T10:02:12.223000Z",
+        "edited": "2014-12-20T21:17:50.416000Z",
+        "id": 49,
+        "affiliations": [],
+        "formerAffiliations": [],
+        "wiki": "https://starwars.wikia.com/wiki/Gasgano",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/5/57/GasganoHS-SWE.jpg"
+    },
+    {
+        "name": "Ben Quadinaros",
+        "height": "163",
+        "mass": "65",
+        "hair_color": "none",
+        "skin_color": "grey, green, yellow",
+        "eye_color": "orange",
+        "birth_year": "unknown",
+        "gender": "male",
+        "homeworld": 41,
+        "films": [
+            4
+        ],
+        "species": [
+            19
+        ],
+        "vehicles": [],
+        "starships": [],
+        "created": "2014-12-20T10:08:33.777000Z",
+        "edited": "2014-12-20T21:17:50.417000Z",
+        "id": 50,
+        "affiliations": [],
+        "formerAffiliations": [],
+        "wiki": "https://starwars.wikia.com/wiki/Ben_Quadinaros",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/7/7f/Cropped_Quadinaros.png"
+    },
+    {
+        "name": "Mace Windu",
+        "height": "188",
+        "mass": "84",
+        "hair_color": "none",
+        "skin_color": "dark",
+        "eye_color": "brown",
+        "birth_year": "72BBY",
+        "gender": "male",
+        "homeworld": 42,
+        "films": [
+            4,
+            5,
+            6
+        ],
+        "species": [],
+        "vehicles": [],
+        "starships": [],
+        "created": "2014-12-20T10:12:30.846000Z",
+        "edited": "2014-12-20T21:17:50.420000Z",
+        "id": 51,
+        "died": -19,
+        "diedLocation": "coruscant",
+        "affiliations": [
+            "Jedi Order",
+            "Jedi High Council",
+            "Jedi assault team",
+            "Mace Windu's squad",
+            "Galactic Republic",
+            "Grand Army of the Republic"
+        ],
+        "formerAffiliations": [],
+        "masters": "Cyslin Myr",
+        "apprentices": "Depa Billaba",
+        "wiki": "https://starwars.wikia.com/wiki/Mace_Windu",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/5/58/Mace_ROTS.png"
+    },
+    {
+        "name": "Ki-Adi-Mundi",
+        "height": "198",
+        "mass": "82",
+        "hair_color": "white",
+        "skin_color": "pale",
+        "eye_color": "yellow",
+        "birth_year": "92BBY",
+        "gender": "male",
+        "homeworld": 43,
+        "films": [
+            4,
+            5,
+            6
+        ],
+        "species": [
+            20
+        ],
+        "vehicles": [],
+        "starships": [],
+        "created": "2014-12-20T10:15:32.293000Z",
+        "edited": "2014-12-20T21:17:50.422000Z",
+        "id": 52,
+        "died": -19,
+        "diedLocation": "mygeeto",
+        "affiliations": [
+            "Jedi Order",
+            "Jedi High Council",
+            "Jedi assault team",
+            "Galactic Republic",
+            "Galactic Marines"
+        ],
+        "formerAffiliations": [],
+        "wiki": "https://starwars.wikia.com/wiki/Ki-Adi-Mundi",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/9/9e/KiAdiMundi.jpg"
+    },
+    {
+        "name": "Kit Fisto",
+        "height": "196",
+        "mass": "87",
+        "hair_color": "none",
+        "skin_color": "green",
+        "eye_color": "black",
+        "birth_year": "unknown",
+        "gender": "male",
+        "homeworld": 44,
+        "films": [
+            4,
+            5,
+            6
+        ],
+        "species": [
+            21
+        ],
+        "vehicles": [],
+        "starships": [],
+        "created": "2014-12-20T10:18:57.202000Z",
+        "edited": "2014-12-20T21:17:50.424000Z",
+        "id": 53,
+        "died": -19,
+        "diedLocation": "coruscant",
+        "affiliations": [
+            "Jedi Order",
+            "Jedi High Council",
+            "Jedi assault team",
+            "Mace Windu's squad",
+            "Galactic Republic"
+        ],
+        "formerAffiliations": [],
+        "apprentices": "Nahdar Vebb",
+        "wiki": "https://starwars.wikia.com/wiki/Kit_Fisto",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/4/4c/Kit_Fisto_Card_Trader.png"
+    },
+    {
+        "name": "Eeth Koth",
+        "height": "171",
+        "mass": "unknown",
+        "hair_color": "black",
+        "skin_color": "brown",
+        "eye_color": "brown",
+        "birth_year": "unknown",
+        "gender": "male",
+        "homeworld": 45,
+        "films": [
+            4,
+            6
+        ],
+        "species": [
+            22
+        ],
+        "vehicles": [],
+        "starships": [],
+        "created": "2014-12-20T10:26:47.902000Z",
+        "edited": "2014-12-20T21:17:50.427000Z",
+        "id": 54,
+        "affiliations": [
+            "Jedi Order",
+            "Jedi High Council",
+            "Jedi assault team",
+            "Galactic Republic"
+        ],
+        "formerAffiliations": [],
+        "wiki": "https://starwars.wikia.com/wiki/Eeth_Koth",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/4/4e/EethKothCardTrader.png"
+    },
+    {
+        "name": "Adi Gallia",
+        "height": "184",
+        "mass": "50",
+        "hair_color": "none",
+        "skin_color": "dark",
+        "eye_color": "blue",
+        "birth_year": "unknown",
+        "gender": "female",
+        "homeworld": 9,
+        "films": [
+            4,
+            6
+        ],
+        "species": [
+            23
+        ],
+        "vehicles": [],
+        "starships": [],
+        "created": "2014-12-20T10:29:11.661000Z",
+        "edited": "2014-12-20T21:17:50.432000Z",
+        "id": 55,
+        "died": -20,
+        "diedLocation": "florrum",
+        "affiliations": [
+            "Jedi Order",
+            "Jedi High Council",
+            "Jedi assault team",
+            "Galactic Republic",
+            "Grand Army of the Republic"
+        ],
+        "formerAffiliations": [],
+        "wiki": "https://starwars.wikia.com/wiki/Adi_Gallia",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/b/ba/AdiGallia.jpg"
+    },
+    {
+        "name": "Saesee Tiin",
+        "height": "188",
+        "mass": "unknown",
+        "hair_color": "none",
+        "skin_color": "pale",
+        "eye_color": "orange",
+        "birth_year": "unknown",
+        "gender": "male",
+        "homeworld": 47,
+        "films": [
+            4,
+            6
+        ],
+        "species": [
+            24
+        ],
+        "vehicles": [],
+        "starships": [],
+        "created": "2014-12-20T10:32:11.669000Z",
+        "edited": "2014-12-20T21:17:50.434000Z",
+        "id": 56,
+        "died": -19,
+        "diedLocation": "coruscant",
+        "affiliations": [
+            "Jedi Order",
+            "Jedi High Council",
+            "Jedi assault team",
+            "Galactic Republic",
+            "Grand Army of the Republic"
+        ],
+        "formerAffiliations": [],
+        "wiki": "https://starwars.wikia.com/wiki/Saesee_Tiin",
+        "image": "https://static.wikia.nocookie.net/starwars/images/a/a3/SaeseeTiin-SWCT.png"
+    },
+    {
+        "name": "Yarael Poof",
+        "height": "264",
+        "mass": "unknown",
+        "hair_color": "none",
+        "skin_color": "white",
+        "eye_color": "yellow",
+        "birth_year": "unknown",
+        "gender": "male",
+        "homeworld": 48,
+        "films": [
+            4
+        ],
+        "species": [
+            25
+        ],
+        "vehicles": [],
+        "starships": [],
+        "created": "2014-12-20T10:34:48.725000Z",
+        "edited": "2014-12-20T21:17:50.437000Z",
+        "id": 57,
+        "died": -27,
+        "affiliations": [
+            "Jedi Order",
+            "Jedi High Council",
+            "Galactic Republic"
+        ],
+        "formerAffiliations": [],
+        "wiki": "https://starwars.wikia.com/wiki/Yarael_Poof",
+        "image": "https://static.wikia.nocookie.net/starwars/images/b/b2/YaraelPoof-SWCT.png"
+    },
+    {
+        "name": "Plo Koon",
+        "height": "188",
+        "mass": "80",
+        "hair_color": "none",
+        "skin_color": "orange",
+        "eye_color": "black",
+        "birth_year": "22BBY",
+        "gender": "male",
+        "homeworld": 49,
+        "films": [
+            4,
+            5,
+            6
+        ],
+        "species": [
+            26
+        ],
+        "vehicles": [],
+        "starships": [
+            48
+        ],
+        "created": "2014-12-20T10:49:19.859000Z",
+        "edited": "2014-12-20T21:17:50.439000Z",
+        "id": 58,
+        "died": -19,
+        "diedLocation": "cato neimoidia",
+        "affiliations": [
+            "Jedi Order",
+            "Jedi High Council",
+            "Jedi assault team",
+            "Galactic Republic",
+            "104th Battalion"
+        ],
+        "formerAffiliations": [],
+        "wiki": "https://starwars.wikia.com/wiki/Plo_Koon",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/b/bf/PloKoonCardTrader.png"
+    },
+    {
+        "name": "Mas Amedda",
+        "height": "196",
+        "mass": "unknown",
+        "hair_color": "none",
+        "skin_color": "blue",
+        "eye_color": "blue",
+        "birth_year": "unknown",
+        "gender": "male",
+        "homeworld": 50,
+        "films": [
+            4,
+            5
+        ],
+        "species": [
+            27
+        ],
+        "vehicles": [],
+        "starships": [],
+        "created": "2014-12-20T10:53:26.457000Z",
+        "edited": "2014-12-20T21:17:50.442000Z",
+        "id": 59,
+        "affiliations": [
+            "Galactic Republic",
+            "Galactic Senate",
+            "Office of the Chancellor",
+            "Strategic Advisory Cell",
+            "Galactic Empire",
+            "Imperial Ruling Council",
+            "Coruscant provisional government"
+        ],
+        "formerAffiliations": [],
+        "wiki": "https://starwars.wikia.com/wiki/Mas_Amedda",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/3/37/Mas_Amedda_SWCT.png"
+    },
+    {
+        "name": "Gregar Typho",
+        "height": "185",
+        "mass": "85",
+        "hair_color": "black",
+        "skin_color": "dark",
+        "eye_color": "brown",
+        "birth_year": "unknown",
+        "gender": "male",
+        "homeworld": 8,
+        "films": [
+            5
+        ],
+        "species": [],
+        "vehicles": [],
+        "starships": [
+            39
+        ],
+        "created": "2014-12-20T11:10:10.381000Z",
+        "edited": "2014-12-20T21:17:50.445000Z",
+        "id": 60,
+        "affiliations": [
+            "Royal House of Naboo",
+            "Royal Naboo Security Forces",
+            "Galactic Republic"
+        ],
+        "formerAffiliations": [],
+        "wiki": "https://starwars.wikia.com/wiki/Gregar_Typho",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/5/52/Gregar_Typho.jpg"
+    },
+    {
+        "name": "Cordé",
+        "height": "157",
+        "mass": "unknown",
+        "hair_color": "brown",
+        "skin_color": "light",
+        "eye_color": "brown",
+        "birth_year": "unknown",
+        "gender": "female",
+        "homeworld": 8,
+        "films": [
+            5
+        ],
+        "species": [],
+        "vehicles": [],
+        "starships": [],
+        "created": "2014-12-20T11:11:39.630000Z",
+        "edited": "2014-12-20T21:17:50.449000Z",
+        "id": 61,
+        "died": -22,
+        "diedLocation": "coruscant",
+        "affiliations": [
+            "Royal House of Naboo",
+            "Naboo Royal Handmaidens",
+            "Galactic Republic"
+        ],
+        "formerAffiliations": [],
+        "wiki": "https://starwars.wikia.com/wiki/Cord%C3%A9",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/b/b6/Cord%C3%A9_-_SW_Card_Trader.png"
+    },
+    {
+        "name": "Cliegg Lars",
+        "height": "183",
+        "mass": "unknown",
+        "hair_color": "brown",
+        "skin_color": "fair",
+        "eye_color": "blue",
+        "birth_year": "82BBY",
+        "gender": "male",
+        "homeworld": 1,
+        "films": [
+            5
+        ],
+        "species": [],
+        "vehicles": [],
+        "starships": [],
+        "created": "2014-12-20T15:59:03.958000Z",
+        "edited": "2014-12-20T21:17:50.451000Z",
+        "id": 62,
+        "died": -22,
+        "affiliations": [
+            "Lars family"
+        ],
+        "formerAffiliations": [],
+        "wiki": "https://starwars.wikia.com/wiki/Cliegg_Lars",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/3/36/ClieggLarsHS-SWE.jpg"
+    },
+    {
+        "name": "Poggle the Lesser",
+        "height": "183",
+        "mass": "80",
+        "hair_color": "none",
+        "skin_color": "green",
+        "eye_color": "yellow",
+        "birth_year": "unknown",
+        "gender": "male",
+        "homeworld": 11,
+        "films": [
+            5,
+            6
+        ],
+        "species": [
+            28
+        ],
+        "vehicles": [],
+        "starships": [],
+        "created": "2014-12-20T16:40:43.977000Z",
+        "edited": "2014-12-20T21:17:50.453000Z",
+        "id": 63,
+        "died": -19,
+        "diedLocation": "mustafar",
+        "affiliations": [
+            "Stalgasin hive",
+            "Karina the Great's empire",
+            "Techno Union",
+            "Confederacy of Independent Systems",
+            "Separatist Council",
+            "Galactic Republic"
+        ],
+        "formerAffiliations": [],
+        "wiki": "https://starwars.wikia.com/wiki/Poggle_the_Lesser",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/9/93/Poggle_the_lesser_-_sw_card_trader.png"
+    },
+    {
+        "name": "Luminara Unduli",
+        "height": "170",
+        "mass": "56.2",
+        "hair_color": "black",
+        "skin_color": "yellow",
+        "eye_color": "blue",
+        "birth_year": "58BBY",
+        "gender": "female",
+        "homeworld": 51,
+        "films": [
+            5,
+            6
+        ],
+        "species": [
+            29
+        ],
+        "vehicles": [],
+        "starships": [],
+        "created": "2014-12-20T16:45:53.668000Z",
+        "edited": "2014-12-20T21:17:50.455000Z",
+        "id": 64,
+        "died": 66,
+        "affiliations": [
+            "Jedi Order",
+            "Jedi assault team",
+            "Galactic Republic",
+            "41st Elite Corps"
+        ],
+        "formerAffiliations": [],
+        "apprentices": "Barriss Offee",
+        "wiki": "https://starwars.wikia.com/wiki/Luminara_Unduli",
+        "image": "https://static.wikia.nocookie.net/starwars/images/9/91/LuminaraUnduli-Encyclopedia.png"
+    },
+    {
+        "name": "Barriss Offee",
+        "height": "166",
+        "mass": "50",
+        "hair_color": "black",
+        "skin_color": "yellow",
+        "eye_color": "blue",
+        "birth_year": "40BBY",
+        "gender": "female",
+        "homeworld": 51,
+        "films": [
+            5
+        ],
+        "species": [
+            29
+        ],
+        "vehicles": [],
+        "starships": [],
+        "created": "2014-12-20T16:46:40.440000Z",
+        "edited": "2014-12-20T21:17:50.457000Z",
+        "id": 65,
+        "affiliations": [
+            "Jedi Order",
+            "Jedi assault team",
+            "Galactic Republic",
+            "Grand Army of the Republic"
+        ],
+        "formerAffiliations": [],
+        "masters": "Luminara Unduli",
+        "wiki": "https://starwars.wikia.com/wiki/Barriss_Offee",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/3/37/Barrisprofile2.jpg"
+    },
+    {
+        "name": "Dormé",
+        "height": "165",
+        "mass": "unknown",
+        "hair_color": "brown",
+        "skin_color": "light",
+        "eye_color": "brown",
+        "birth_year": "unknown",
+        "gender": "female",
+        "homeworld": 8,
+        "films": [
+            5
+        ],
+        "species": [
+            1
+        ],
+        "vehicles": [],
+        "starships": [],
+        "created": "2014-12-20T16:49:14.640000Z",
+        "edited": "2014-12-20T21:17:50.460000Z",
+        "id": 66,
+        "affiliations": [
+            "Royal House of Naboo",
+            "Naboo Royal Handmaidens",
+            "Galactic Republic"
+        ],
+        "formerAffiliations": [],
+        "wiki": "https://starwars.wikia.com/wiki/Dorm%C3%A9",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/1/18/Dormesenate.jpg"
+    },
+    {
+        "name": "Dooku",
+        "height": "193",
+        "mass": "80",
+        "hair_color": "white",
+        "skin_color": "fair",
+        "eye_color": "brown",
+        "birth_year": "102BBY",
+        "gender": "male",
+        "homeworld": 52,
+        "films": [
+            5,
+            6
+        ],
+        "species": [
+            1
+        ],
+        "vehicles": [
+            55
+        ],
+        "starships": [],
+        "created": "2014-12-20T16:52:14.726000Z",
+        "edited": "2014-12-20T21:17:50.462000Z",
+        "id": 67,
+        "died": -19,
+        "diedLocation": "aboard invisible hand over coruscant",
+        "affiliations": [
+            "House of Dooku",
+            "Lost Twenty",
+            "Sith",
+            "Independent Movement for Self-Determination",
+            "Confederacy of Independent Systems"
+        ],
+        "formerAffiliations": [
+            "Jedi Order",
+            "Galactic Republic"
+        ],
+        "masters": [
+            "Yoda (Jedi)",
+            "Darth Sidious (Sith)"
+        ],
+        "apprentices": [
+            "Qui-Gon Jinn (Jedi)",
+            "Grievous (lightsaber trainee)",
+            "Asajj Ventress",
+            "Savage Opress (Sith)",
+            "Quinlan Vos (Sith)"
+        ],
+        "wiki": "https://starwars.wikia.com/wiki/Dooku",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/b/b8/Dooku_Headshot.jpg"
+    },
+    {
+        "name": "Bail Prestor Organa",
+        "height": "191",
+        "mass": "unknown",
+        "hair_color": "black",
+        "skin_color": "tan",
+        "eye_color": "brown",
+        "birth_year": "67BBY",
+        "gender": "male",
+        "homeworld": 2,
+        "films": [
+            5,
+            6
+        ],
+        "species": [
+            1
+        ],
+        "vehicles": [],
+        "starships": [],
+        "created": "2014-12-20T16:53:08.575000Z",
+        "edited": "2014-12-20T21:17:50.463000Z",
+        "id": 68,
+        "died": 0,
+        "diedLocation": "alderaan",
+        "affiliations": [
+            "House of Organa",
+            "High Court of Alderaan",
+            "Galactic Republic",
+            "Galactic Senate",
+            "Loyalist Committee",
+            "Security Committee",
+            "Delegation of 2000",
+            "Galactic Empire",
+            "Imperial Senate",
+            "Finance Committee",
+            "Appropriations Committee",
+            "Intelligence Oversight Committee",
+            "Military Oversight Committee",
+            "Alderaanian Resistance",
+            "Kota's Militia",
+            "Alliance to Restore the Republic"
+        ],
+        "formerAffiliations": [],
+        "wiki": "https://starwars.wikia.com/wiki/Bail_Prestor_Organa",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/5/50/Bail_Organa_Mug.jpg"
+    },
+    {
+        "name": "Jango Fett",
+        "height": "183",
+        "mass": "79",
+        "hair_color": "black",
+        "skin_color": "tan",
+        "eye_color": "brown",
+        "birth_year": "66BBY",
+        "gender": "male",
+        "homeworld": 53,
+        "films": [
+            5
+        ],
+        "species": [],
+        "vehicles": [],
+        "starships": [],
+        "created": "2014-12-20T16:54:41.620000Z",
+        "edited": "2014-12-20T21:17:50.465000Z",
+        "id": 69,
+        "died": -22,
+        "diedLocation": "geonosis",
+        "affiliations": [
+            "Confederacy of Independent Systems",
+            "Tyranus"
+        ],
+        "formerAffiliations": [],
+        "wiki": "https://starwars.wikia.com/wiki/Jango_Fett",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/5/56/JangoInfobox.png"
+    },
+    {
+        "name": "Zam Wesell",
+        "height": "168",
+        "mass": "55",
+        "hair_color": "blonde",
+        "skin_color": "fair, green, yellow",
+        "eye_color": "yellow",
+        "birth_year": "unknown",
+        "gender": "female",
+        "homeworld": 54,
+        "films": [
+            5
+        ],
+        "species": [
+            30
+        ],
+        "vehicles": [
+            45
+        ],
+        "starships": [],
+        "created": "2014-12-20T16:57:44.471000Z",
+        "edited": "2014-12-20T21:17:50.468000Z",
+        "id": 70,
+        "died": -22,
+        "diedLocation": "coruscant",
+        "affiliations": [
+            "Mabari",
+            "Confederacy of Independent Systems"
+        ],
+        "formerAffiliations": [],
+        "wiki": "https://starwars.wikia.com/wiki/Zam_Wesell",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/7/7d/Clawdite.jpg"
+    },
+    {
+        "name": "Dexter Jettster",
+        "height": "198",
+        "mass": "102",
+        "hair_color": "none",
+        "skin_color": "brown",
+        "eye_color": "yellow",
+        "birth_year": "unknown",
+        "gender": "male",
+        "homeworld": 55,
+        "films": [
+            5
+        ],
+        "species": [
+            31
+        ],
+        "vehicles": [],
+        "starships": [],
+        "created": "2014-12-20T17:28:27.248000Z",
+        "edited": "2014-12-20T21:17:50.470000Z",
+        "id": 71,
+        "affiliations": [
+            "Dex's Diner"
+        ],
+        "formerAffiliations": [],
+        "wiki": "https://starwars.wikia.com/wiki/Dexter_Jettster",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/6/6c/DexterHS-SWE.jpg"
+    },
+    {
+        "name": "Lama Su",
+        "height": "229",
+        "mass": "88",
+        "hair_color": "none",
+        "skin_color": "grey",
+        "eye_color": "black",
+        "birth_year": "unknown",
+        "gender": "male",
+        "homeworld": 10,
+        "films": [
+            5
+        ],
+        "species": [
+            32
+        ],
+        "vehicles": [],
+        "starships": [],
+        "created": "2014-12-20T17:30:50.416000Z",
+        "edited": "2014-12-20T21:17:50.473000Z",
+        "id": 72,
+        "affiliations": [
+            "Galactic Republic"
+        ],
+        "formerAffiliations": [],
+        "wiki": "https://starwars.wikia.com/wiki/Lama_Su",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/7/73/Lama_Su.jpg"
+    },
+    {
+        "name": "Taun We",
+        "height": "213",
+        "mass": "unknown",
+        "hair_color": "none",
+        "skin_color": "grey",
+        "eye_color": "black",
+        "birth_year": "unknown",
+        "gender": "female",
+        "homeworld": 10,
+        "films": [
+            5
+        ],
+        "species": [
+            32
+        ],
+        "vehicles": [],
+        "starships": [],
+        "created": "2014-12-20T17:31:21.195000Z",
+        "edited": "2014-12-20T21:17:50.474000Z",
+        "id": 73,
+        "affiliations": [
+            "Galactic Republic"
+        ],
+        "formerAffiliations": [],
+        "wiki": "https://starwars.wikia.com/wiki/Taun_We",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/9/9c/TaunWe.jpg"
+    },
+    {
+        "name": "Jocasta Nu",
+        "height": "167",
+        "mass": "unknown",
+        "hair_color": "white",
+        "skin_color": "fair",
+        "eye_color": "blue",
+        "birth_year": "unknown",
+        "gender": "female",
+        "homeworld": 9,
+        "films": [
+            5
+        ],
+        "species": [
+            1
+        ],
+        "vehicles": [],
+        "starships": [],
+        "created": "2014-12-20T17:32:51.996000Z",
+        "edited": "2014-12-20T21:17:50.476000Z",
+        "id": 74,
+        "died": -19,
+        "diedLocation": "coruscant",
+        "affiliations": [
+            "Jedi Order",
+            "Jedi High Council"
+        ],
+        "formerAffiliations": [],
+        "wiki": "https://starwars.wikia.com/wiki/Jocasta_Nu",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/1/15/Jocasta_Nu_SWE.png"
+    },
+    {
+        "name": "R4-P17",
+        "height": "96",
+        "mass": "unknown",
+        "hair_color": "none",
+        "skin_color": "silver, red",
+        "eye_color": "red, blue",
+        "birth_year": "unknown",
+        "gender": "female",
+        "homeworld": 28,
+        "films": [
+            5,
+            6
+        ],
+        "species": [],
+        "vehicles": [],
+        "starships": [],
+        "created": "2014-12-20T17:43:36.409000Z",
+        "edited": "2014-12-20T21:17:50.478000Z",
+        "id": 75,
+        "affiliations": [
+            "Galactic Republic"
+        ],
+        "formerAffiliations": [],
+        "wiki": "https://starwars.wikia.com/wiki/R4-P17",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/6/6b/R4-P17.jpg"
+    },
+    {
+        "name": "Wat Tambor",
+        "height": "193",
+        "mass": "48",
+        "hair_color": "none",
+        "skin_color": "green, grey",
+        "eye_color": "unknown",
+        "birth_year": "unknown",
+        "gender": "male",
+        "homeworld": 56,
+        "films": [
+            5
+        ],
+        "species": [
+            33
+        ],
+        "vehicles": [],
+        "starships": [],
+        "created": "2014-12-20T17:53:52.607000Z",
+        "edited": "2014-12-20T21:17:50.481000Z",
+        "id": 76,
+        "died": -19,
+        "diedLocation": "mustafar",
+        "affiliations": [
+            "Techno Union",
+            "Baktoid Armor Workshop",
+            "Confederacy of Independent Systems",
+            "Separatist Council"
+        ],
+        "formerAffiliations": [],
+        "wiki": "https://starwars.wikia.com/wiki/Wat_Tambor",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/a/a5/Wat_Tambor.png"
+    },
+    {
+        "name": "San Hill",
+        "height": "191",
+        "mass": "unknown",
+        "hair_color": "none",
+        "skin_color": "grey",
+        "eye_color": "gold",
+        "birth_year": "unknown",
+        "gender": "male",
+        "homeworld": 57,
+        "films": [
+            5
+        ],
+        "species": [
+            34
+        ],
+        "vehicles": [],
+        "starships": [],
+        "created": "2014-12-20T17:58:17.049000Z",
+        "edited": "2014-12-20T21:17:50.484000Z",
+        "id": 77,
+        "died": -19,
+        "diedLocation": "mustafar",
+        "affiliations": [
+            "InterGalactic Banking Clan",
+            "Muunilinst Banking Clan",
+            "Confederacy of Independent Systems",
+            "Separatist Council"
+        ],
+        "formerAffiliations": [],
+        "wiki": "https://starwars.wikia.com/wiki/San_Hill",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/6/6f/SanHill_hs.jpg"
+    },
+    {
+        "name": "Shaak Ti",
+        "height": "178",
+        "mass": "57",
+        "hair_color": "none",
+        "skin_color": "red, blue, white",
+        "eye_color": "black",
+        "birth_year": "unknown",
+        "gender": "female",
+        "homeworld": 58,
+        "films": [
+            5,
+            6
+        ],
+        "species": [
+            35
+        ],
+        "vehicles": [],
+        "starships": [],
+        "created": "2014-12-20T18:44:01.103000Z",
+        "edited": "2014-12-20T21:17:50.486000Z",
+        "id": 78,
+        "died": -19,
+        "diedLocation": "coruscant",
+        "affiliations": [
+            "Jedi Order",
+            "Jedi High Council",
+            "Jedi assault team",
+            "Galactic Republic",
+            "Grand Army of the Republic"
+        ],
+        "formerAffiliations": [],
+        "wiki": "https://starwars.wikia.com/wiki/Shaak_Ti",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/2/20/Shaak_Ti_closeup-SWE.png"
+    },
+    {
+        "name": "Grievous",
+        "height": "216",
+        "mass": "159",
+        "hair_color": "none",
+        "skin_color": "brown, white",
+        "eye_color": "green, yellow",
+        "birth_year": "unknown",
+        "gender": "male",
+        "homeworld": 59,
+        "films": [
+            6
+        ],
+        "species": [
+            36
+        ],
+        "vehicles": [
+            60
+        ],
+        "starships": [
+            74
+        ],
+        "created": "2014-12-20T19:43:53.348000Z",
+        "edited": "2014-12-20T21:17:50.488000Z",
+        "id": 79,
+        "died": -19,
+        "diedLocation": "utapau",
+        "cybernetics": "Completely cybernetic except for brain, some vital organs, and parts of his head",
+        "affiliations": [
+            "Confederacy of Independent Systems",
+            "Separatist Droid Army"
+        ],
+        "formerAffiliations": [],
+        "masters": "Dooku (lightsaber combat)",
+        "wiki": "https://starwars.wikia.com/wiki/Grievous",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/d/de/Grievoushead.jpg"
+    },
+    {
+        "name": "Tarfful",
+        "height": "234",
+        "mass": "136",
+        "hair_color": "brown",
+        "skin_color": "brown",
+        "eye_color": "blue",
+        "birth_year": "unknown",
+        "gender": "male",
+        "homeworld": 14,
+        "films": [
+            6
+        ],
+        "species": [
+            3
+        ],
+        "vehicles": [],
+        "starships": [],
+        "created": "2014-12-20T19:46:34.209000Z",
+        "edited": "2014-12-20T21:17:50.491000Z",
+        "id": 80,
+        "affiliations": [
+            "Galactic Republic"
+        ],
+        "formerAffiliations": [],
+        "wiki": "https://starwars.wikia.com/wiki/Tarfful",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/3/37/Tarfful_RotS.png"
+    },
+    {
+        "name": "Raymus Antilles",
+        "height": "188",
+        "mass": "79",
+        "hair_color": "brown",
+        "skin_color": "light",
+        "eye_color": "brown",
+        "birth_year": "unknown",
+        "gender": "male",
+        "homeworld": 2,
+        "films": [
+            1,
+            6
+        ],
+        "species": [],
+        "vehicles": [],
+        "starships": [],
+        "created": "2014-12-20T19:49:35.583000Z",
+        "edited": "2014-12-20T21:17:50.493000Z",
+        "id": 81,
+        "died": 0,
+        "diedLocation": "tantive iv, tatoo system",
+        "affiliations": [
+            "House of Organa",
+            "Alliance to Restore the Republic",
+            "Alliance Military"
+        ],
+        "formerAffiliations": [],
+        "wiki": "https://starwars.wikia.com/wiki/Raymus_Antilles",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/8/80/Raymus_card_trader.png"
+    },
+    {
+        "name": "Sly Moore",
+        "height": "178",
+        "mass": "48",
+        "hair_color": "none",
+        "skin_color": "pale",
+        "eye_color": "white",
+        "birth_year": "unknown",
+        "gender": "female",
+        "homeworld": 60,
+        "films": [
+            5,
+            6
+        ],
+        "species": [],
+        "vehicles": [],
+        "starships": [],
+        "created": "2014-12-20T20:18:37.619000Z",
+        "edited": "2014-12-20T21:17:50.496000Z",
+        "id": 82,
+        "affiliations": [
+            "Galactic Republic",
+            "Office of the Chancellor",
+            "Galactic Empire"
+        ],
+        "formerAffiliations": [],
+        "wiki": "https://starwars.wikia.com/wiki/Sly_Moore",
+        "image": "https://static.wikia.nocookie.net/starwars/images/b/b7/SlyMooreStare-OP.png"
+    },
+    {
+        "name": "Tion Medon",
+        "height": "206",
+        "mass": "80",
+        "hair_color": "none",
+        "skin_color": "grey",
+        "eye_color": "black",
+        "birth_year": "unknown",
+        "gender": "male",
+        "homeworld": 12,
+        "films": [
+            6
+        ],
+        "species": [
+            37
+        ],
+        "vehicles": [],
+        "starships": [],
+        "created": "2014-12-20T20:35:04.260000Z",
+        "edited": "2014-12-20T21:17:50.498000Z",
+        "id": 83,
+        "affiliations": [
+            "Galactic Republic"
+        ],
+        "formerAffiliations": [],
+        "wiki": "https://starwars.wikia.com/wiki/Tion_Medon",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/4/43/Tion_Medon.jpg"
+    },
+    {
+        "id": 84,
+        "name": "Ratts Tyerell",
+        "height": "79",
+        "mass": "15",
+        "gender": "male",
+        "homeworld": 38,
+        "wiki": "https://starwars.wikia.com/wiki/Ratts_Tyerell",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/6/68/RattsHS.jpg",
+        "died": -32,
+        "diedLocation": "tatooine",
+        "species": [
+            16
+        ],
+        "affiliations": [],
+        "formerAffiliations": [],
+        "eye_color": "black",
+        "skin_color": "blue, white"
+    },
+    {
+        "id": 85,
+        "name": "Finn",
+        "height": "178",
+        "mass": "73",
+        "gender": "male",
+        "wiki": "https://starwars.wikia.com/wiki/Finn",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/a/af/Finn_TLJ_Collector%27s_Edition.png",
+        "born": 11,
+        "species": [
+            1
+        ],
+        "affiliations": [
+            "First Order",
+            "FN Corps",
+            "Resistance"
+        ],
+        "formerAffiliations": [],
+        "hair_color": "black",
+        "eye_color": "brown",
+        "skin_color": "dark"
+    },
+    {
+        "id": 86,
+        "name": "Rey",
+        "height": "170",
+        "mass": "54",
+        "gender": "female",
+        "wiki": "https://starwars.wikia.com/wiki/Rey",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/f/f8/ReyTLJEntertainmentWeeklyNovember.png",
+        "born": 15,
+        "species": [
+            1
+        ],
+        "affiliations": [
+            "Resistance",
+            "Jedi Order"
+        ],
+        "masters": "Luke Skywalker",
+        "formerAffiliations": [],
+        "hair_color": "brown",
+        "eye_color": "hazel",
+        "skin_color": "light"
+    },
+    {
+        "id": 87,
+        "name": "Poe Dameron",
+        "height": "172",
+        "mass": "80",
+        "gender": "male",
+        "homeworld": 3,
+        "wiki": "https://starwars.wikia.com/wiki/Poe_Dameron",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/7/79/Poe_Dameron_TLJ.png",
+        "born": 2,
+        "species": [
+            1
+        ],
+        "affiliations": [
+            "New Republic",
+            "Rapier Squadron",
+            "Resistance",
+            "Squadron",
+            "Black Squadron",
+            "Blue Squadron",
+            "Red Squadron",
+            "\"Reb\" Squadron"
+        ],
+        "formerAffiliations": [],
+        "hair_color": "brown",
+        "eye_color": "brown",
+        "skin_color": "tan"
+    },
+    {
+        "id": 88,
+        "name": "BB8",
+        "height": "67",
+        "mass": "18",
+        "gender": "male",
+        "species": [
+            2
+        ],
+        "wiki": "https://starwars.wikia.com/wiki/BB-8",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/6/68/BB8-Fathead.png",
+        "model": "BB-series",
+        "class": "Astromech droid",
+        "sensorColor": "black",
+        "platingColor": "stainless inoxium",
+        "equipment": [
+            "Grappling Spike Launcher",
+            "Welding torch",
+            "Holoprojector",
+            "Arc welder"
+        ],
+        "affiliations": [
+            "New Republic",
+            "Rapier Squadron",
+            "Resistance",
+            "Black Squadron"
+        ],
+        "formerAffiliations": [],
+        "eye_color": "black"
+    },
+    {
+        "id": 89,
+        "name": "Captain Phasma",
+        "height": "200",
+        "mass": "76",
+        "gender": "female",
+        "wiki": "https://starwars.wikia.com/wiki/Phasma",
+        "image": "https://vignette.wikia.nocookie.net/starwars/images/0/02/Phasma.png",
+        "species": [
+            2
+        ],
+        "affiliations": [
+            "Unidentified clan",
+            "Scyre",
+            "First Order",
+            "First Order military"
+        ],
+        "formerAffiliations": [],
+        "hair_color": "gold",
+        "eye_color": "blue",
+        "skin_color": "pale"
+    }
+]
