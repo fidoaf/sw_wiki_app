@@ -3,8 +3,9 @@ import 'dart:math';
 import 'package:flutter/material.dart';
 import 'package:sw_app/model/data_service.dart';
 import 'package:sw_app/model/people_service.dart';
-import 'package:sw_app/view/details_page.dart';
-import 'package:sw_app/view/logo_progess_indicator.dart';
+import 'package:sw_app/view/character/details_page.dart';
+
+import 'package:sw_app/view/loader/custom_progress_indicator.dart';
 
 ///
 /// Grid that adapts itself depending on the screen size

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:sw_app/configuration/dynamic_configuration.dart';
 import 'package:sw_app/configuration/theme_configuration.dart';
-import 'package:sw_app/view/loading_page.dart';
+import 'package:sw_app/view/stages/landing_page.dart';
 
 /// SW wiki app:
 /// Main entry point
@@ -25,7 +25,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeConfiguration.applyCustomization(ThemeData.light()),
       darkTheme: ThemeConfiguration.applyCustomization(ThemeData.dark()),
       themeMode: DynamicConfiguration.of(context).themeMode,
-      home: const LoadingPage(title: 'Star Wars fan app'),
+      home: const LandingPage(title: 'Star Wars fan app'),
     );
   }
 }

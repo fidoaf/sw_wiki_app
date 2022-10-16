@@ -1,15 +1,16 @@
 import 'package:flutter/material.dart';
 import 'package:sw_app/model/data_service.dart';
-import 'package:sw_app/view/choose_side.dart';
-import 'package:sw_app/view/image_progess_indicator.dart';
+import 'package:sw_app/view/stages/choose_side_page.dart';
 
-class LoadingPage extends StatefulWidget {
-  const LoadingPage({super.key, required this.title});
+import 'package:sw_app/view/loader/custom_progress_indicator.dart';
+
+class LandingPage extends StatefulWidget {
+  const LandingPage({super.key, required this.title});
 
   final String title;
 
   @override
-  State<LoadingPage> createState() => _LoadingPageState();
+  State<LandingPage> createState() => _LandingPageState();
 }
 
 ///
@@ -17,7 +18,7 @@ class LoadingPage extends StatefulWidget {
 /// json file assets in these case,
 /// evethough the information could be easily retrieved
 /// from a webservice, just changing the DataService class.
-class _LoadingPageState extends State<LoadingPage> {
+class _LandingPageState extends State<LandingPage> {
   bool _complete = false;
 
   final DataService backend = DataService();

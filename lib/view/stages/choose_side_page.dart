@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:sw_app/configuration/dynamic_configuration.dart';
-import 'package:sw_app/view/roster_page.dart';
+import 'package:sw_app/view/character/roster_page.dart';
 
 ///
 /// Dynamically change the theme of the application
