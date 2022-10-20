@@ -19,35 +19,32 @@ class ImageProgressIndicator extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     bool isonline = imagepath.startsWith('http');
-    return Container(
-        padding: const EdgeInsets.only(top: 50.0),
+    return FittedBox(
         child: Column(children: [
-          Text(
-            label,
-            style: const TextStyle(fontSize: 36),
-          ),
-          Opacity(
-              opacity: 0.5,
-              child: ClipRect(
-                  child: Align(
-                alignment: Alignment.topCenter,
-                heightFactor: 1 - ratio,
-                child: isonline
-                    ? Image.network(
-                        imagepath,
-                      )
-                    : Image.asset(imagepath),
-              ))),
-          Opacity(
-              opacity: 1,
-              child: ClipRect(
-                  child: Align(
-                alignment: Alignment.bottomCenter,
-                heightFactor: ratio,
-                child: isonline
-                    ? Image.network(imagepath)
-                    : Image.asset(imagepath),
-              ))),
-        ]));
+      Text(
+        label,
+        style: const TextStyle(fontSize: 36),
+      ),
+      Opacity(
+          opacity: 0.5,
+          child: ClipRect(
+              child: Align(
+            alignment: Alignment.topCenter,
+            heightFactor: 1 - ratio,
+            child: isonline
+                ? Image.network(
+                    imagepath,
+                  )
+                : Image.asset(imagepath),
+          ))),
+      Opacity(
+          opacity: 1,
+          child: ClipRect(
+              child: Align(
+            alignment: Alignment.bottomCenter,
+            heightFactor: ratio,
+            child: isonline ? Image.network(imagepath) : Image.asset(imagepath),
+          ))),
+    ]));
   }
 }

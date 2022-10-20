@@ -35,27 +35,30 @@ class _LandingPageState extends State<LandingPage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-        body: FutureBuilder(
+        body: SafeArea(
+            child: Center(
+                child: FutureBuilder(
       future: loadDataAssets(context),
       builder: (context, snapshot) {
         if (snapshot.hasError) {
-          return const Center(
-            child: Text('Error'),
-          );
+          return const Text('Error');
         } else {
           if (_complete) {
             return const ChooseSidePage(title: 'Choose your side');
           } else {
-            return ImageProgressIndicator(
-              label: backend.complete
-                  ? 'Data complete!'
-                  : 'Loading ${backend.currentAsset}...',
-              imagepath: 'assets/images/bb8-clipart-hq.png',
-              ratio: backend.ratio,
-            );
+            return Column(children: <Widget>[
+              Expanded(
+                  child: ImageProgressIndicator(
+                label: backend.complete
+                    ? 'Data complete!'
+                    : 'Loading ${backend.currentAsset}...',
+                imagepath: 'assets/images/bb8-clipart-hq.png',
+                ratio: backend.ratio,
+              ))
+            ]);
           }
         }
       },
-    ));
+    ))));
   }
 }
