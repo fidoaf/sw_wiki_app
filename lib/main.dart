@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:sw_app/configuration/dynamic_configuration.dart';
 import 'package:sw_app/configuration/theme_configuration.dart';
 import 'package:sw_app/view/stages/landing_page.dart';
@@ -6,6 +7,10 @@ import 'package:sw_app/view/stages/landing_page.dart';
 /// SW wiki app:
 /// Main entry point
 void main() {
+  SystemChrome.setSystemUIOverlayStyle(const SystemUiOverlayStyle(
+    statusBarColor: Colors.orangeAccent,
+    systemNavigationBarColor: Colors.orangeAccent,
+  ));
   runApp(const DynamicConfigurationWidget(child: MyApp()));
 }
 
