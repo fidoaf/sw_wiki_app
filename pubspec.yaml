@@ -91,11 +91,9 @@ flutter:
   # list giving the asset and other descriptors for the font. For
   # example:
   fonts:
-    - family: Star Jedi
+    - family: DeathStar
       fonts:
-        - asset: assets/fonts/StarJedi-DGRW.ttf
-        - asset: assets/fonts/StarJediHollow-A4lL.ttf
-        - asset: assets/fonts/StarJediRounded-jW3R.ttf
+        - asset: assets/fonts/DeathStar-VmWB.ttf
   
   #
   # For details regarding fonts from package dependencies,
