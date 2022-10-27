@@ -53,6 +53,12 @@ class DynamicConfigurationWidgetState
     });
   }
 
+  void revertToDefault() {
+    setState(() {
+      themeMode = ThemeMode.system;
+    });
+  }
+
   bool get isDark => themeMode == ThemeMode.dark;
 
   @override
